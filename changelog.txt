@@ -1,0 +1,57 @@
+Changelog GxPlan
+
+versão 0.33-alpha
+- Correção do bug da data "modificado" nas notas.
+- Alteração da contagem dos dias decorridos e de atraso.
+- Implementação da reconexão à base de dados anterior em caso de cancelamento ou erro na abertura e criação de uma nova.
+- Implementação da contagem de linhas e caracteres nas notas.
+
+
+versão 0.32b
+- Opção de antecipação ou adiamento das datas de Projeto consoante as da tarefa
+- Impleentação do "salto" do calendário para as tarefas com doubleclick
+
+
+versão 0.31b
+- Implementação do "folding" no título das notas
+
+
+versão 0.30b
+- Implementação do "Calendário" das tarefas e projetos
+
+
+versão 0.24b
+- Remoção dos caracteres especiais no "Resumo" das Notas
+
+
+versão 0.23b
+- Implementação das "Notas" com Scintilla
+- Correção do bug de identificação do "Projeto" nas Tarefas do "Dia"
+
+
+versão 0.22b
+- Implementação "Save/load" do horário
+- Correção da dessincronização com a tarefa inicial do "Dia"
+- Correção da dessincronização entre tarefas e items nas seleções em "Tarefas"
+- Eliminação da trackbar do horário.
+
+
+Versão 0.21b
+- Correção do bug ao Criar nova Base de Dados com registos abertos
+- Alteração da fórmula de cálculo das 3 tarefas mais importantes
+- Correção da hierarquia de textos no podium das tarefas mais importantes
+
+
+Versão 0.2b
+- Implementação da tab "Dia"
+
+
+Versão 0.11b
+- Alterações ao Form
+
+
+Versão 0.1b
+- Implementação da tab "Tarefas"
+
+- Implementação da tab "Projetos"
+- Comunicação com a base de dados SQLite

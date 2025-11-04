@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://www.purebasic.com/namespace" version="1.0" creator="PureBasic 6.21 (Windows - x64)">
+  <section name="config">
+    <options closefiles="1" openmode="0" name="GxPlan"/>
+    <comment>GxPlan - Plan in Compliance.</comment>
+  </section>
+  <section name="data">
+    <explorer view="" pattern="0"/>
+    <log show="1"/>
+    <lastopen date="2025-11-04 16:11" user="dnmendes" host="RLIQLZL176"/>
+  </section>
+  <section name="files">
+    <file name="MyScintilla.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" sortindex="6" panelstate="+"/>
+      <fingerprint md5="d345748c8b386f3cec3b0084aa3a8d4c"/>
+    </file>
+    <file name="ScintillaStyles.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" sortindex="7" panelstate="+"/>
+      <fingerprint md5="e7d463ed5013b1cd51b52a5f26fd9af6"/>
+    </file>
+    <file name="UpdateTabs.pb">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" sortindex="3" panelstate="+"/>
+      <fingerprint md5="390d3bc6642a5a27c625b9d4d1d5a184"/>
+    </file>
+    <file name="Ficheiro.pb">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" sortindex="2" panelstate="+"/>
+      <fingerprint md5="bd7821e1ba1a7a838d4d3f5b2c602cea"/>
+    </file>
+    <file name="Form_Tarefas.pbf">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" sortindex="4" panelstate="+"/>
+      <fingerprint md5="0d0769119acc17c9951b2ff2ba8a2a16"/>
+    </file>
+    <file name="GxPlan_main.pb">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" sortindex="1" panelstate="+"/>
+      <fingerprint md5="77dfc545fc809dd1b69469e7dd39a20c"/>
+    </file>
+    <file name="Form_Tarefas.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" sortindex="5" panelstate="+"/>
+      <fingerprint md5="87c023b528fafb1ac27e540c1b368f7c"/>
+    </file>
+    <file name="ScintillaFootnote.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" sortindex="8" panelstate="+"/>
+      <fingerprint md5="b6239b9b89a67a24b8f90c4f08e46acb"/>
+    </file>
+  </section>
+  <section name="targets">
+    <target name="Default Target" enabled="1" default="1">
+      <inputfile value="GxPlan_main.pb"/>
+      <outputfile value="GxPlan.exe"/>
+      <executable value="GxPlan.exe"/>
+      <options xpskin="1" debug="1" optimizer="0"/>
+      <temporaryexe value="source"/>
+    </target>
+  </section>
+</project>
