@@ -45,7 +45,7 @@ Procedure CheckDatabaseUpdate(Database, Query$)
  
  
 ;Não deixa DESELECIONAR um objeto List(ListIcon
- Procedure NoDeselection(MyGadget.l , ByDefault.l)
+ Procedure NoDeselection(MyGadget , ByDefault.l)
    If GetGadgetState(MyGadget) <0
      SetGadgetState(MyGadget,ByDefault)
    EndIf   
@@ -77,8 +77,8 @@ Procedure CheckDatabaseUpdate(Database, Query$)
  EndProcedure   
  
  
-; IDE Options = PureBasic 5.73 LTS (Windows - x64)
-; CursorPosition = 78
-; FirstLine = 42
+; IDE Options = PureBasic 6.21 (Windows - x64)
+; CursorPosition = 47
+; FirstLine = 30
 ; Folding = -
 ; EnableXP
