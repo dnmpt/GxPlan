@@ -68,16 +68,16 @@ LICENSE.md              → MIT License
 ## 🖼️ Screenshot
 
 
-<img width="1005" height="575" alt="image" src="https://github.com/user-attachments/assets/2a06fe6d-c33c-43e2-9122-ce8177018b22" />
+<img width="1016" height="582" alt="image" src="https://github.com/user-attachments/assets/f18f51e6-8ed1-4c3a-8e78-165f023db683" />
 <br>
 <br>
-<img width="1005" height="572" alt="image" src="https://github.com/user-attachments/assets/34b498df-6bfb-46f0-b37e-2debfb300744" />
+<img width="1016" height="579" alt="image" src="https://github.com/user-attachments/assets/761c3fe0-ec57-4c7c-9d82-a6b3859e835a" />
 <br>
 <br>
-<img width="1006" height="574" alt="image" src="https://github.com/user-attachments/assets/1669c89c-28bb-48a3-bc8f-562b5a019474" />
+<img width="1016" height="582" alt="image" src="https://github.com/user-attachments/assets/50470469-9ba8-47f5-a93d-aeb416bdb845" />
 <br>
 <br>
-<img width="1006" height="576" alt="image" src="https://github.com/user-attachments/assets/95edf45f-f83f-4d79-a470-6cfb73d6f9ad" />
+<img width="1017" height="583" alt="image" src="https://github.com/user-attachments/assets/6b65ca34-14d6-44e7-95b5-e11afbcc0475" />
 <br>
 <br>
 <img width="1004" height="572" alt="image" src="https://github.com/user-attachments/assets/daf64396-bdc3-4b35-8a3b-231f1bdf1b16" />
